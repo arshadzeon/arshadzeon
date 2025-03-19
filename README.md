@@ -1,6 +1,12 @@
 <div align="center">
   
-# 👋 Hello, I'm Arshad
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+
+# <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-f2347582156c.gif" width="40px" /> Hello, I'm Arshad <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-f2347582156c.gif" width="40px" />
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7007D&random=false&width=435&lines=Aspiring+Machine+Learning+Engineer;Python+%7C+TensorFlow+%7C+PyTorch;Building+Intelligent+Systems" alt="Typing SVG" />
+</div>
 
 ### I'm an aspiring Machine Learning Engineer with a passion for building intelligent systems that solve real-world problems. I thrive in startup environments, where creativity meets impact.
 
@@ -8,7 +14,9 @@
 
 </div>
 
-## 🧠 Machine Learning Enthusiast
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> Machine Learning Enthusiast
 
 <div align="center">
   <p>
@@ -16,7 +24,9 @@
   </p>
 </div>
 
-## 📚 Featured Projects
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/213866478-c71f5a9c-ca64-481c-a8fc-7a550e7ad0d7.gif" width="25px" /> Featured Projects
 
 <div align="center">
   <a href="YOUR_PROJECT_LINK">
@@ -38,7 +48,9 @@
   </ul>
 </details>
 
-## 🛠️ Languages and Tools
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/213866132-67e5e172-c645-4503-9a2f-b5e2818c5e03.png" width="25px" /> Languages and Tools
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
@@ -73,7 +85,7 @@
 
 <br>
 
-## 🤖 ML Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/213874049-0ad0bae2-da46-4d3c-90af-111a92a9a522.gif" width="25px" /> ML Tech Stack
 
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*c_fiB-YgbnMl6nntYGBMHQ.gif" width="500">
@@ -86,18 +98,24 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" alt="GitHub Streak" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  </div>
 </details>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🔗 Connect with me
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25px" /> Connect with me
 
 <div align="center">
   <a href="https://twitter.com/gradientzeon" target="_blank">
@@ -112,8 +130,10 @@
   </a> -->
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 </div>
