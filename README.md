@@ -10,10 +10,6 @@
 
 ### I'm an aspiring Machine Learning Engineer with a passion for building intelligent systems that solve real-world problems. I thrive in startup environments, where creativity meets impact.
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <b>Anime Fan & Coder</b>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -21,7 +17,6 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/213866132-67e5e172-c645-4503-9a2f-b5e2818c5e03.png" width="25px" /> Languages and Tools
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="150">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
   <br><br>
   
@@ -73,10 +68,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
-  <br><br>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="700">
-  <br><br>
-  <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" width="110">
-  <img src="https://64.media.tumblr.com/5378b15545e9f678c7cc2dc953fd942a/tumblr_n9dxcikmIU1qc9zfzo3_r1_250.gif" width="110">
-  <img src="https://64.media.tumblr.com/88c940533c41df5c6144d901e05d8b1a/tumblr_n9dxcikmIU1qc9zfzo8_r1_250.gif" width="110">
 </div>
