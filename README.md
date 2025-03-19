@@ -1,4 +1,6 @@
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:5F0A87,100:A4508B&height=120&section=header&text=Machine%20Learning%20Engineer&fontColor=ffffff&fontSize=30&animation=fadeIn" width="100%">
   
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
@@ -12,7 +14,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213866132-67e5e172-c645-4503-9a2f-b5e2818c5e03.png" width="25px" /> Languages and Tools
 
@@ -47,7 +49,7 @@
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00FFFF&height=3&section=header&animation=twinkling" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25px" /> Connect with me
 
@@ -64,7 +66,7 @@
   </a> -->
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=80&section=footer&animation=scaleIn&fontSize=40&text=Thanks%20for%20visiting!&fontColor=fff" width="100%">
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
