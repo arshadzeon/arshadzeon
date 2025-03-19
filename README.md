@@ -4,7 +4,7 @@
 
 ### I'm an aspiring Machine Learning Engineer with a passion for building intelligent systems that solve real-world problems. I thrive in startup environments, where creativity meets impact.
 
-<img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500">
 
 </div>
 
@@ -41,6 +41,8 @@
 ## 🛠️ Languages and Tools
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+  <br><br>
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
