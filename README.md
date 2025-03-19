@@ -4,16 +4,15 @@
 
 ### I'm an aspiring Machine Learning Engineer with a passion for building intelligent systems that solve real-world problems. I thrive in startup environments, where creativity meets impact.
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/terminal.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" width="500">
 
 </div>
 
 ## 🧠 Machine Learning Enthusiast
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="60" height="60">
   <p>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ1Y2Q1NjBzbzl0NDQzdXR3MHc2c3N1YWdqc3Azc213cng0YTdpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yo2fMrTG6dgLdiKX2z/giphy.gif" width="300">
+    <img src="https://raw.githubusercontent.com/kirankumargonti/kirankumargonti/master/assets/machine-learning.gif" width="500">
   </p>
 </div>
 
@@ -75,6 +74,8 @@
 ## 🤖 ML Tech Stack
 
 <div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*c_fiB-YgbnMl6nntYGBMHQ.gif" width="500">
+  <br><br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
