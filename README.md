@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
 
 # <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-f2347582156c.gif" width="40px" /> Hello, I'm Arshad <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-f2347582156c.gif" width="40px" />
 
@@ -134,6 +134,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 </div>
