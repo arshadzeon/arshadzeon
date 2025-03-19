@@ -4,9 +4,40 @@
 
 ### I'm an aspiring Machine Learning Engineer with a passion for building intelligent systems that solve real-world problems. I thrive in startup environments, where creativity meets impact.
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/terminal.gif" width="500">
 
 </div>
+
+## 🧠 Machine Learning Enthusiast
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="60" height="60">
+  <p>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ1Y2Q1NjBzbzl0NDQzdXR3MHc2c3N1YWdqc3Azc213cng0YTdpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yo2fMrTG6dgLdiKX2z/giphy.gif" width="300">
+  </p>
+</div>
+
+## 📚 Featured Projects
+
+<div align="center">
+  <a href="YOUR_PROJECT_LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=PROJECT_NAME_1&theme=radical" />
+  </a>
+  <a href="YOUR_PROJECT_LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=PROJECT_NAME_2&theme=radical" />
+  </a>
+</div>
+
+<details>
+  <summary><b>🚀 ML Project Ideas I'm Excited About</b></summary>
+  <br>
+  <ul>
+    <li>🔍 <b>Recommendation System</b>: Building a neural collaborative filtering system for personalized content recommendations</li>
+    <li>🗣️ <b>NLP Analysis</b>: Sentiment analysis and topic modeling on social media data</li>
+    <li>🖼️ <b>Computer Vision</b>: Object detection and image segmentation for medical imaging</li>
+    <li>📈 <b>Time Series Forecasting</b>: Using LSTM networks for stock market prediction</li>
+  </ul>
+</details>
 
 ## 🛠️ Languages and Tools
 
@@ -41,11 +72,24 @@
 
 <br>
 
+## 🤖 ML Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</div>
+
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" alt="Top Languages" />
 </details>
 
 <hr>
