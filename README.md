@@ -16,40 +16,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> Machine Learning Enthusiast
-
-<div align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/kirankumargonti/kirankumargonti/master/assets/machine-learning.gif" width="500">
-  </p>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/213866478-c71f5a9c-ca64-481c-a8fc-7a550e7ad0d7.gif" width="25px" /> Featured Projects
-
-<div align="center">
-  <a href="YOUR_PROJECT_LINK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=PROJECT_NAME_1&theme=radical" />
-  </a>
-  <a href="YOUR_PROJECT_LINK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=PROJECT_NAME_2&theme=radical" />
-  </a>
-</div>
-
-<details>
-  <summary><b>🚀 ML Project Ideas I'm Excited About</b></summary>
-  <br>
-  <ul>
-    <li>🔍 <b>Recommendation System</b>: Building a neural collaborative filtering system for personalized content recommendations</li>
-    <li>🗣️ <b>NLP Analysis</b>: Sentiment analysis and topic modeling on social media data</li>
-    <li>🖼️ <b>Computer Vision</b>: Object detection and image segmentation for medical imaging</li>
-    <li>📈 <b>Time Series Forecasting</b>: Using LSTM networks for stock market prediction</li>
-  </ul>
-</details>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## <img src="https://user-images.githubusercontent.com/74038190/213866132-67e5e172-c645-4503-9a2f-b5e2818c5e03.png" width="25px" /> Languages and Tools
 
 <div align="center">
@@ -82,36 +48,6 @@
   </a>
   
 </div>
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/213874049-0ad0bae2-da46-4d3c-90af-111a92a9a522.gif" width="25px" /> ML Tech Stack
-
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*c_fiB-YgbnMl6nntYGBMHQ.gif" width="500">
-  <br><br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<details>
-  <summary><b>📊 GitHub Stats</b></summary>
-  <br>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" alt="GitHub Streak" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" alt="Top Languages" />
-  </div>
-</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
