@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Arshad&fontColor=6A5ACD&fontSize=64&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=hey,i'm Arshad&fontColor=6A5ACD&fontSize=64&animation=fadeIn" width="100%">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Machine+Learning+Engineer;Python+%7C+TensorFlow+%7C+PyTorch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Machine+Learning;Python+%7C+web design+%7C+PyTorch" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,8 +28,6 @@ Building intelligent systems that solve real-world problems.
 
 <br>
 
-<h3 align="center">Stats</h3>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true&background=ffffff00&stroke=6A5ACD&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD&sideLabels=6A5ACD&currStreakNum=6A5ACD&sideNums=6A5ACD&dates=6A5ACD90" alt="GitHub Streak Stats" />
 </p>
@@ -46,8 +44,5 @@ Building intelligent systems that solve real-world problems.
 
 <br>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=6A5ACD&style=flat" alt="Profile views" />
-</p>
 
 </div>
