@@ -1,8 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Arshad&fontColor=FFFFFF&fontSize=64&fontAlign=center&animation=fadeIn&font=Inter" width="65%" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Arshad&fontColor=FFFFFF&fontSize=64&fontAlign=center&animation=fadeIn&font=Inter" width="100%" />
 </h1>
 
 <p align="center">
