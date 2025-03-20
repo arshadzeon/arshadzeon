@@ -1,14 +1,14 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Arshad&fontColor=FFFFFF&fontSize=64&fontAlign=center&animation=fadeIn&font=Inter" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Arshad&fontColor=FFFFFF&fontSize=64&fontAlign=center&animation=fadeIn&font=Silkscreen" width="100%" />
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Machine+Learning;Web+Design" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Machine%20Learning%20/%20Web%20Design&fontColor=FFFFFF&fontSize=24&fontAlign=center&font=Silkscreen" width="100%" />
 </p>
 
-<p align="center" style="font-family: 'Inter', sans-serif;">
+<p align="center">
 Building intelligent systems that solve real-world problems.
 <br>I thrive in startup environments, where creativity meets impact.
 </p>
@@ -17,7 +17,9 @@ Building intelligent systems that solve real-world problems.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header&width=60%" width="60%">
 </div>
 
-<h3 align="center" style="font-family: 'Inter', sans-serif;">Tech Stack</h3>
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Tech%20Stack&fontColor=FFFFFF&fontSize=30&fontAlign=center&font=Silkscreen" width="100%" />
+</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -34,7 +36,9 @@ Building intelligent systems that solve real-world problems.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:C3AED6&height=1&section=header&width=40%" width="40%">
 </div>
 
-<h3 align="center" style="font-family: 'Inter', sans-serif;">Connect</h3>
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Connect&fontColor=FFFFFF&fontSize=30&fontAlign=center&font=Silkscreen" width="100%" />
+</h3>
 
 <p align="center">
 <a href="https://twitter.com/gradientzeon" target="_blank">
