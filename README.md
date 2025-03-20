@@ -1,27 +1,27 @@
 <div align="center">
 
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Arshad&fontColor=FFFFFF&fontSize=64&fontAlign=center&animation=fadeIn&font=Silkscreen" width="100%" />
+<h1 align="center" style="margin-bottom: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Arshad&fontColor=FFFFFF&fontSize=64&fontAlign=center&animation=fadeIn&font=Silkscreen" width="100%" />
 </h1>
 
-<p align="center">
+<p align="center" style="margin-top: -15px; margin-bottom: 5px;">
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Machine%20Learning%20/%20Web%20Design&fontColor=FFFFFF&fontSize=24&fontAlign=center&font=Silkscreen" width="100%" />
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: 0; margin-bottom: 10px;">
 Building intelligent systems that solve real-world problems.
 <br>I thrive in startup environments, where creativity meets impact.
 </p>
 
-<div align="center">
+<div align="center" style="margin: 5px 0;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header&width=60%" width="60%">
 </div>
 
-<h3 align="center">
+<h3 align="center" style="margin-top: 10px; margin-bottom: 0;">
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Tech%20Stack&fontColor=FFFFFF&fontSize=30&fontAlign=center&font=Silkscreen" width="100%" />
 </h3>
 
-<p align="center">
+<p align="center" style="margin-top: 0;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -32,15 +32,15 @@ Building intelligent systems that solve real-world problems.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<div align="center">
+<div align="center" style="margin: 5px 0;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:C3AED6&height=1&section=header&width=40%" width="40%">
 </div>
 
-<h3 align="center">
+<h3 align="center" style="margin-top: 10px; margin-bottom: 0;">
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Connect&fontColor=FFFFFF&fontSize=30&fontAlign=center&font=Silkscreen" width="100%" />
 </h3>
 
-<p align="center">
+<p align="center" style="margin-top: 0;">
 <a href="https://twitter.com/gradientzeon" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-6A5ACD?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
@@ -50,7 +50,7 @@ Building intelligent systems that solve real-world problems.
 </a>
 </p>
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=60&section=footer&width=100%" width="100%">
 </div>
 
